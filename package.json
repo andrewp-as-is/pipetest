@@ -1,11 +1,10 @@
 {
   "name": "pipetest",
-  "version": "2019.4.13",
-  "description": "backup to S3",
+  "version": "2019.5.18",
+  "description": "pipe + /bin/test",
   "keywords": [
-    "backup",
-    "aws",
-    "s3"
+    "pipe",
+    "test"
   ],
   "homepage": "https://github.com/looking-for-a-job/pipetest",
   "license": "Unlicense",
